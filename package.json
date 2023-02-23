@@ -1,6 +1,9 @@
 {
   "name": "books",
   "version": "0.1.0",
+  "engines": {
+    "node": "19.1.0"
+  },
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -35,6 +38,7 @@
   "scripts": {
     "start": "concurrently \"react-scripts start\" \"npx json-server books.json --port 3001\"",
     "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -55,5 +59,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },  
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
