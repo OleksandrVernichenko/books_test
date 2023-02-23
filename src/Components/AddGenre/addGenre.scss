@@ -1,0 +1,49 @@
+.add_genre_page {
+  padding: 0 10px;
+  h2 {
+    text-align: center;
+    padding: 10px;
+  }
+  .genre_list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    gap: 10px;
+    .genre_item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid rgb(183, 183, 200);
+      padding: 5px;
+      border-radius: 3px;
+      transition: 0.5s ease;
+      button {
+        border: none;
+        background-color: transparent;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        justify-content: center;
+      }
+      &:hover {
+        background-color: rgba(169, 184, 197, 0.453);
+      }
+    }
+  }
+}
+
+.fade-enter {
+  opacity: 0;
+}
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease;
+}
+.fade-exit {
+  opacity: 1;
+}
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease;
+}

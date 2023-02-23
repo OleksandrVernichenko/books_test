@@ -1,0 +1,98 @@
+.add_author {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin: 40px auto;
+  width: max-content;
+  height: max-content;
+  .form_block {
+    display: flex;
+    gap: 13px;
+    margin: auto;
+    width: max-content;
+    height: max-content;
+  }
+  .add_photo {
+    input {
+      display: none;
+    }
+    label {
+      width: 250px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px silver solid;
+      border-radius: 3px;
+      position: relative;
+    }
+    .added_image {
+      width: 250px;
+      height: 100%;
+      position: relative;
+      border: 1px silver solid;
+      border-radius: 3px;
+      &:hover button {
+        opacity: 1;
+      }
+      img {
+        display: block;
+        height: 100%;
+        border-radius: 3px;
+        width: 100%;
+        object-fit: cover;
+      }
+      button {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0;
+        transition: 0.5s ease;
+        color: red;
+        border: none;
+        background-color: transparent;
+        cursor: pointer;
+      }
+    }
+  }
+  .input_block {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+  }
+  .add_info {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 13px;
+  }
+  .add_date {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 13px;
+  }
+}
+
+@media (min-width: 100px) and (max-width: 600px) {
+  form {
+    .form_block {
+      flex-direction: column;
+    }
+
+    .add_photo {
+      label {
+        width: 300px;
+      }
+
+      .added_image {
+        width: 300px;
+      }
+    }
+  }
+}

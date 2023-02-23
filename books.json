@@ -1,0 +1,466 @@
+{
+  "authors": [
+    {
+      "id": "131d8574-4fbb-4d23-a50b-dfsdfsdf6919f78217a0",
+      "name": "Joanne",
+      "last_name": "Rowling",
+      "middle_name": "",
+      "birthday": "31 Jul 1965",
+      "till": null,
+      "photo": "https://drive.google.com/uc?id=1cTQvGVKesqHyblZiRA0E8jxKvHQSjDaO",
+      "country": "England",
+      "books": [
+        {
+          "id": "70e56c1d-7f1c-4294-8fb9-bedf6918d8cf",
+          "name": "Harry Potter and the Philosopher's Stone",
+          "genre": ["Fantasy novel"],
+          "pages": "223",
+          "image": "https://drive.google.com/uc?id=16zm5s2z8cSFHbKNfDhBB1y0R-E_bPeZb"
+        },
+        {
+          "id": "d0fbc5cf-4655-48fa-a5d1-4b94a5c24a51",
+          "name": "Harry Potter and the Deathly Hallows",
+          "genre": ["Fantasy novel"],
+          "pages": "607",
+          "image": "https://drive.google.com/uc?id=1tmqneqtbEFFcMBKUPRwqmjVp7c3Fo12E"
+        },
+        {
+          "id": "be0a280c-fd83-4a2a-a9ef-0e7ac3156fc0",
+          "name": "Harry Potter and the Half-Blood Prince",
+          "genre": ["Fantasy novel"],
+          "pages": "607",
+          "image": "https://drive.google.com/uc?id=1P-HaNfYtfr6_kEr_ldic1zXtBCWXuT6m"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-b3ed3f6d5-383jd38jd8d",
+      "name": "Gregory",
+      "last_name": "Roberts",
+      "middle_name": "David",
+      "birthday": "21 Jun 1952",
+      "till": null,
+      "photo": "https://drive.google.com/uc?id=1mAmjUsFfQoIZc7rRhe-lbYXz6BkRtp84",
+      "country": "Australia",
+      "books": [
+        {
+          "id": "9c5ab9fc-d1b6-42b4-bdc4-e523d7152978",
+          "name": "Shantaram",
+          "genre": ["Novel"],
+          "pages": "936",
+          "image": "https://drive.google.com/uc?id=1uZAff0n5FFagvCSj32pcD9PXNDbdUBZw"
+        },
+        {
+          "id": "9c5ab9fc-d1b6-42b4-bdc4-39d9d39d93",
+          "name": "The Mountain Shadow",
+          "genre": ["Novel"],
+          "pages": "912",
+          "image": "https://drive.google.com/uc?id=1KnQDPRxmq7zIC7ObniwsNs9pYZ9mbuyK"
+        },
+        {
+          "id": "9c5ab9fc-d1b6-42b4-bdc4-93939idf3d",
+          "name": "The Spiritual Path",
+          "genre": ["Novel"],
+          "pages": "224",
+          "image": "https://drive.google.com/uc?id=15JyKI6e7Nvn00LY630pLCBiiEzC7uWNi"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-b9dk9d9d6d5-e3ef5f52",
+      "name": "Taras",
+      "last_name": "Shevchenko",
+      "middle_name": "Hryhorovych",
+      "birthday": "9 Mar 1814",
+      "till": "10 Mar 1861",
+      "photo": "https://drive.google.com/uc?id=18vce8JoJI5LKQCHZO6R1i__Rvs_6QLtz",
+      "country": "Ukraine",
+      "books": [
+        {
+          "id": "9c5ab9fc-d1b6-42b4-bdc4-e523d7152978",
+          "name": "Kobzar",
+          "genre": ["Poems"],
+          "pages": "736",
+          "image": "https://drive.google.com/uc?id=1sv6lk_H30od1jqod85VUC4Y8q1VyjT7X"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-odv9r4f94-e3ef5f52",
+      "name": "Gabriel",
+      "last_name": "Márquez",
+      "middle_name": "García",
+      "birthday": "6 Mar 1927",
+      "till": "17 Apr 2014",
+      "photo": "https://drive.google.com/uc?id=11VLsaXS4xTGbZgH6wIWkzcSjuBXpCHvc",
+      "country": "Mexico",
+      "books": [
+        {
+          "id": "9c5ab9fc-d1b6-42b4-eoe4d-e523d7152978",
+          "name": "One Hundred Years of Solitude",
+          "genre": ["Romance"],
+          "pages": "536",
+          "image": "https://drive.google.com/uc?id=13lAFBJUgv0JpGFUJkf90nWruFg0qGncj"
+        },
+        {
+          "id": "9c5ab9fc-d1b6-42b4-eoe4d-9vnd9wej83",
+          "name": "Love in the Time of Cholera",
+          "genre": ["Romance"],
+          "pages": "436",
+          "image": "https://drive.google.com/uc?id=1GHFgUXxo9257c-eAPsnBzlL0OSmviUbj"
+        },
+        {
+          "id": "8nfd4h4w-d1b6-42b4-eoe4d-9vnd9wej83",
+          "name": "No One Writes to the Colonel",
+          "genre": ["Romance"],
+          "pages": "696",
+          "image": "https://drive.google.com/uc?id=10epKz2C4GG0gI6Ac038mxCLtEjKEcqwQ"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-9nm3hf2pd-e3ef5f52",
+      "name": "John",
+      "last_name": "Tolkien",
+      "middle_name": "Reuel",
+      "birthday": "3 Jan 1892",
+      "till": "2 Sep 1973",
+      "photo": "https://drive.google.com/uc?id=1GMBSpkiDBtk-pKxWOIsnY0nkodukW4C6",
+      "country": "England",
+      "books": [
+        {
+          "id": "9c5ab9fc-d1fu4b6-444f2b4-eoe4d-e523d7152978",
+          "name": "The Lord of the Rings",
+          "genre": ["Romance", "Fantasy novel"],
+          "pages": "536",
+          "image": "https://drive.google.com/uc?id=1Mwh2PJQKPI-vflnzgbaPdemSc-N9xAOE"
+        },
+        {
+          "id": "9c5ab9fc-d1b6-42b4-eoe4d-9vnd9wej83",
+          "name": "The Lord of the Rings Two Towers",
+          "genre": ["Romance", "Fantasy novel"],
+          "pages": "436",
+          "image": "https://drive.google.com/uc?id=1R1vv17GbB4risw09HGpwql1WGWrxmC63"
+        },
+        {
+          "id": "8nfd4h4w-d1b6-42b4-eo7ab3d23-9vnd9wej83",
+          "name": "The Hobbit",
+          "genre": ["Romance", "Fantasy novel"],
+          "pages": "696",
+          "image": "https://drive.google.com/uc?id=1yGAoVQCJ3R7x2kfUtbUX6izxk3UanH7L"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-9nm3hf2pd-0nk4kf402",
+      "name": "Nelle",
+      "last_name": "Lee",
+      "middle_name": "Harper",
+      "birthday": "28 Apr 1926",
+      "till": "19 Feb 2016",
+      "photo": "https://drive.google.com/uc?id=1S9hJRdcHQNevLoHItNd-3v9OaqBOwlVe",
+      "country": "USA",
+      "books": [
+        {
+          "id": "9c5ab9fc-d1fu4b6-0vrk3d-eoe4d-uv8vu8vu8",
+          "name": "To Kill a Mockingbird",
+          "genre": ["Novel"],
+          "pages": "536",
+          "image": "https://drive.google.com/uc?id=1bdQQymwh407E0NFAV78EGe2-SDYPr0bX"
+        },
+        {
+          "id": "9c5ab9fc-e3e3-v8v8v-eoe4d-9vnd9wej83",
+          "name": "Go Set a Watchman",
+          "genre": ["Novel"],
+          "pages": "756",
+          "image": "https://drive.google.com/uc?id=1d0kvNgYbIBPwigIoLPclZ6tg0rz8Cs_e"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-9nm3hf2pd-0okn3ef2d",
+      "name": "Richard",
+      "last_name": "Bach",
+      "middle_name": "David",
+      "birthday": "23 Jun 1936",
+      "till": null,
+      "photo": "https://drive.google.com/uc?id=1ZH0eXnMJFTDjSVC2eRm7IouayoK7JiVf",
+      "country": "USA",
+      "books": [
+        {
+          "id": "9c5ab9fc-94id49fj-0vrk3d-eoe4d-uv8vu8vu8",
+          "name": "Jonathan Livingston Seagull",
+          "genre": ["Novel"],
+          "pages": "536",
+          "image": "https://drive.google.com/uc?id=1C0Bx__0fMxg0Kw9AThpHDhaOopddND31"
+        },
+        {
+          "id": "9c5ab9fc-e3e3-v8v8v-eoe4d-8bhr3cm4mf",
+          "name": "Nothing by Chance",
+          "genre": ["Novel"],
+          "pages": "506",
+          "image": "https://drive.google.com/uc?id=1ZEd0KxYH2_TMO98z_fWs6JfWMFu6gS97"
+        },
+        {
+          "id": "9c5ab9fc-9fj3vr4e-v434f8v-eoe4d-8bhr3cm4mf",
+          "name": "Illusions",
+          "genre": ["Novel"],
+          "pages": "192",
+          "image": "https://drive.google.com/uc?id=1u8HKgXAkf7ZTzzXcZ784eHMGoxCrA7O-"
+        }
+      ]
+    },
+    {
+      "id": "5c878fb9-d66e-4a77-8fj2v43e834-0okn3ef2d",
+      "name": "Stephen",
+      "last_name": "Hawking",
+      "middle_name": "William",
+      "birthday": "8 Jan 1942",
+      "till": "14 Mar 2018",
+      "photo": "https://drive.google.com/uc?id=16f-Vc40zJSDGciGIn5Md1ZBGLwwRdjto",
+      "country": "England",
+      "books": [
+        {
+          "id": "9c5ab9fc-94id49fj-0vrk3d-eoe4d-uf83nf3f3f",
+          "name": "A Brief History of Time",
+          "genre": ["Science"],
+          "pages": "256",
+          "image": "https://drive.google.com/uc?id=1-Hj_LrJaZV_qxPRhTwRlw57LPmsX363W"
+        },
+        {
+          "id": "9c5ab9fc-e3e3-9fj3jf5-eoe4d-8bhr3cm4mf",
+          "name": "The Grand Design",
+          "genre": ["Science"],
+          "pages": "208",
+          "image": "https://drive.google.com/uc?id=1ZEd0KxYH2_TMO98z_fWs6JfWMFu6gS97"
+        },
+        {
+          "id": "9c5ab9fc-9fj3vr4e-v434f8v-43f4ff-95jf94",
+          "name": "Black Holes: The Reith Lectures",
+          "genre": ["Science"],
+          "pages": "493",
+          "image": "https://drive.google.com/uc?id=18MgOV-KgKKupJmPjUd59uRacgbwg-3ds"
+        }
+      ]
+    },
+    {
+      "id": "0fl4flf4-d66e-4a77-8jd38d3jd38-0okn3ef2d",
+      "name": "Bernard",
+      "last_name": "Werber",
+      "middle_name": "",
+      "birthday": "18 Sep 1961 ",
+      "till": null,
+      "photo": "https://drive.google.com/uc?id=16M-tHHG5LonJna-nxMIU8KEsO2fTlkEk",
+      "country": "France",
+      "books": [
+        {
+          "id": "c9c9c9-94id49fj-d3uvj3ur-eoe4d-uf83nf3f3f",
+          "name": "Les Thanatonautes",
+          "genre": ["Science", "Fantasy novel"],
+          "pages": "694",
+          "image": "https://drive.google.com/uc?id=1FCZ7orx10N7W3Fj0ZGr8Um62jBx1g2LC"
+        },
+        {
+          "id": "9c5ab9fc-e3e3-9fj3jf5-eoe4d-8bhr3cm4mf",
+          "name": "L'Empire des anges",
+          "genre": ["Fantasy novel"],
+          "pages": "544",
+          "image": "https://drive.google.com/uc?id=1STDbv6iD7XOQZevpso-vDR6TUjHvchWR"
+        },
+        {
+          "id": "4j4j4j-viv9vi9vi-v434f8v-43f4ff-95jf94",
+          "name": "Empire of the Ants",
+          "genre": ["Novel"],
+          "pages": "493",
+          "image": "https://drive.google.com/uc?id=1GtpC0_4c3FCg3W0ct3YbSEoN25YbJGH7"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Romance"
+    },
+    {
+      "id": 2,
+      "name": "Mystery"
+    },
+    {
+      "id": 3,
+      "name": "Thriller"
+    },
+    {
+      "id": 4,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 5,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Historical Fiction"
+    },
+    {
+      "id": 8,
+      "name": "Biography"
+    },
+    {
+      "id": 9,
+      "name": "Autobiography"
+    },
+    {
+      "id": 10,
+      "name": "Memoir"
+    },
+    {
+      "id": 11,
+      "name": "Self-Help"
+    },
+    {
+      "id": 12,
+      "name": "Cooking"
+    },
+    {
+      "id": 13,
+      "name": "Travel"
+    },
+    {
+      "id": 14,
+      "name": "Art"
+    },
+    {
+      "id": 15,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Business"
+    },
+    {
+      "id": 17,
+      "name": "Finance"
+    },
+    {
+      "id": 18,
+      "name": "Science"
+    },
+    {
+      "id": 19,
+      "name": "History"
+    },
+    {
+      "id": 20,
+      "name": "Philosophy"
+    },
+    {
+      "id": 21,
+      "name": "Religion"
+    },
+    {
+      "id": 22,
+      "name": "Politics"
+    },
+    {
+      "id": 23,
+      "name": "Psychology"
+    },
+    {
+      "id": 24,
+      "name": "Sociology"
+    },
+    {
+      "id": 25,
+      "name": "Sports"
+    },
+    {
+      "id": 26,
+      "name": "True Crime"
+    },
+    {
+      "id": 27,
+      "name": "Comics"
+    },
+    {
+      "id": 28,
+      "name": "Graphic Novels"
+    },
+    {
+      "id": 29,
+      "name": "Young Adult"
+    },
+    {
+      "id": 30,
+      "name": "Children's"
+    },
+    {
+      "id": 31,
+      "name": "Classics"
+    },
+    {
+      "id": 32,
+      "name": "Dystopian"
+    },
+    {
+      "id": 33,
+      "name": "Humor"
+    },
+    {
+      "id": 34,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Erotica"
+    },
+    {
+      "id": 36,
+      "name": "Contemporary Fiction"
+    },
+    {
+      "id": 37,
+      "name": "Poetry"
+    },
+    {
+      "id": 38,
+      "name": "Short Stories"
+    },
+    {
+      "id": 39,
+      "name": "Novella"
+    },
+    {
+      "id": 40,
+      "name": "Anthology"
+    },
+    {
+      "id": 41,
+      "name": "Essay"
+    },
+    {
+      "id": 42,
+      "name": "Literary Criticism"
+    },
+    {
+      "id": 43,
+      "name": "Journalism"
+    },
+    {
+      "id": 44,
+      "name": "Nature"
+    },
+    {
+      "id": 45,
+      "name": "Reference"
+    },
+    {
+      "id": 46,
+      "name": "Education"
+    }
+  ]
+}
